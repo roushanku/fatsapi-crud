@@ -23,7 +23,7 @@ This is a simple CRUD (Create, Read, Update, Delete) API built using **FastAPI**
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/fastapi-crud-app.git
+   git clone https://github.com/roushanku/fatsapi-crud.git
    cd fastapi-crud-app
 
 
